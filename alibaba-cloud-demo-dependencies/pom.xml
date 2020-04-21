@@ -7,7 +7,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <properties>
-        <spring-cloud.version>Greenwich.RELEASE</spring-cloud.version>
+        <spring-cloud.version>Greenwich.SR4</spring-cloud.version>
     </properties>
     <licenses>
         <license>
